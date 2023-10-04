@@ -1,22 +1,13 @@
 # 💫 About Me:
-<br>👋 Hello there! I'm Chathushi Kavindya, a dedicated student pursuing a degree in Information Technology and Management at the University of Moratuwa. I'm thrilled to welcome you to my GitHub profile, where I'm constantly exploring the fascinating world of technology, coding, and business analysis.<br>
+<br>👋 Hey, I'm Chathushi Kavindya, a student at the University of Moratuwa, studying Information Technology and Management. My GitHub is all about tech, coding, and business analysis.<br>
 
-<br>📚 Academic Pursuits: Currently, I'm immersed in my degree program, which is equipping me with a strong foundation in Information Technology and Management. This journey has not only sharpened my technical skills but also enhanced my understanding of how technology can be effectively harnessed to drive business success.<br>
+<br>🌐 I'm open to collaborations and looking to expand my knowledge in IT, especially in areas like data analysis and software development.<br>
 
-<br>🌐 Collaboration Opportunities: I'm always on the lookout for exciting collaboration opportunities. Whether it's working on open-source projects, contributing to innovative tech solutions, or collaborating on projects related to IT and business, I'm eager to connect with like-minded individuals and teams who share a passion for creating impactful solutions.<br>
-
-<br>🤝 Looking for Help With: While I'm continuously learning and growing in the IT field, there are always new challenges and opportunities to explore. I'm particularly interested in expanding my knowledge and expertise in areas like data analysis, software development, and project management. If you have insights, resources, or project ideas to share, I'd love to hear from you!<br>
-
-<br>🚀 Current Learning Journey: My current focus is on Information Technology, and I'm dedicated to staying updated with the latest trends and technologies in this rapidly evolving field. I'm also passionate about honing my skills as a business analyst, where I can bridge the gap between technology and business strategy to drive meaningful results.<br>
-
-<br>💡 Fun Fact: One thing that sets me apart is my unwavering enthusiasm for all things IT-related. Whether it's discussing the latest tech innovations, brainstorming new project ideas, or diving into the intricacies of coding, I'm always up for it. Tech isn't just a career path for me; it's a passion!<br>
-
-<br>Get in Touch<br>
+<br>🚀 Currently, I'm focused on learning IT and I'm passionate about business analysis. Fun fact: I live and breathe tech!<br>
 
 <br>I'm excited about the possibilities that technology and collaboration bring, and I'm looking forward to connecting with you. Feel free to reach out to me if you have any questions, want to explore potential projects, or simply want to chat about the exciting world of Information Technology and Business Analysis. Let's code, innovate, and learn together! 🚀🤓<br>
 
 <br>[GitHub Profile Link](Your GitHub Profile Link)
-
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Chathushi Kavindya) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_chathu.shi_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Chathushi Kavindya) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@A. Chathushi Kavindya) 
