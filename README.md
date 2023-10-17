@@ -1,7 +1,19 @@
 <h1 align="center">Hi 👋, I'm Chathushi Kavindya</h1>
 <h3 align="center">A passionate Business Analytics from Sri Lanka</h3>
 
+- 🔭 I’m currently working on **👩‍🎓 Undergraduate at the University of Moratuwa**
+
+- 🌱 I’m currently learning **### 🌱 I'm Currently Learning I'm deeply engaged in the world of Business Analytics, and my current learning journey revolves around this exciting field. My pursuits include: - Data-driven Decision Making - Predictive Modeling and Forecasting - Data Visualization and Reporting - Business Intelligence Tools - Market Analysis and Competitive Intelligence I'm enthusiastic about honing my skills in Business Analytics, and I'm always open to insights, resources, or collaborative opportunities related to this area. Let's explore the data-driven future together! 📈**
+
+- 👯 I’m looking to collaborate on **I'm always open to collaborative projects and contributions. If you have an exciting project in mind or if you'd like to work together on anything related to information technology, software development, or data management, feel free to reach out. Let's create something amazing together! 🚀**
+
+- 🤝 I’m looking for help with **🤝 While I'm passionate about technology and learning, there are always new challenges and areas where I could use some guidance. If you're experienced in any of the following areas and would like to share your knowledge or work together on a project, please reach out: - Web Development (Front-end and Back-end) - Software Architecture and Design - Open Source Contributions - Business Analytics Your expertise and guidance would be greatly appreciated! Let's learn and grow together. 🙌**
+
+- 📝 I regularly write articles on [I'm an active contributor on Medium, where I share in-depth insights on Business Analytics. My articles cover a variety of topics within the field, including: - Data-driven Decision Making - Data Visualization and Reporting - Predictive Analytics - Market Research and Competitive Intelligence - Business Intelligence Tools You can explore my Medium articles to stay updated on the latest in Business Analytics and data-driven strategies. If you have any specific topics you'd like me to write about or if you'd like to collaborate on an article, feel free to reach out!](I'm an active contributor on Medium, where I share in-depth insights on Business Analytics. My articles cover a variety of topics within the field, including: - Data-driven Decision Making - Data Visualization and Reporting - Predictive Analytics - Market Research and Competitive Intelligence - Business Intelligence Tools You can explore my Medium articles to stay updated on the latest in Business Analytics and data-driven strategies. If you have any specific topics you'd like me to write about or if you'd like to collaborate on an article, feel free to reach out!)
+
 - 📫 How to reach me **chathushikavindya09@gmail.com**
+
+- ⚡ Fun fact **Did you know that Business Analytics can be like a crystal ball for decision-makers? By harnessing the power of data, it can predict future trends and outcomes, helping businesses make informed decisions and even foreseeing potential opportunities and challenges. It's not magic, but it often feels like it when you unlock the insights hidden in your data! 🔮✨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
