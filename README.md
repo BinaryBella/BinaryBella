@@ -5,16 +5,18 @@
   **👩‍🎓 Undergraduate at the University of Moratuwa**
 
 - 🌱 I’m currently learning
-  **I'm Currently Learning I'm deeply engaged in the world of Business Analytics, and my current learning journey revolves around this exciting field. My pursuits include: - Data-driven Decision Making - Predictive Modeling and Forecasting - Data Visualization and Reporting - Business Intelligence Tools - Market Analysis and Competitive Intelligence I'm enthusiastic about honing my skills in Business Analytics, and I'm always open to insights, resources, or collaborative opportunities related to this area. Let's explore the data-driven future together! 📈**
+  **I'm passionate about learning business analytics, especially data-driven decision making, predictive modeling, data visualization, business intelligence tools, and market analysis. I'm always open to insights, resources, and collaboration opportunities in this field. Let's explore the data-driven future together! 📈**
 
 - 👯 I’m looking to collaborate on
    **I'm always open to collaborative projects and contributions. If you have an exciting project in mind or if you'd like to work together on anything related to information technology, software development, or data management, feel free to reach out. Let's create something amazing together! 🚀**
 
 - 🤝 I’m looking for help with
-   **While I'm passionate about technology and learning, there are always new challenges and areas where I could use some guidance. If you're experienced in any of the following areas and would like to share your knowledge or work together on a project, please reach out: - Web Development (Front-end and Back-end) - Software Architecture and Design - Open Source Contributions - Business Analytics Your expertise and guidance would be greatly appreciated! Let's learn and grow together. 🙌**
+   **I'm looking for guidance in web development, software architecture, open source contributions, and business analytics. If you have expertise in any of these areas, please reach out! I'm eager to learn and grow together. 🙌**
 
 - 📝 I regularly write articles on
-  **[I'm an active contributor on Medium, where I share in-depth insights on Business Analytics. My articles cover a variety of topics within the field, including: - Data-driven Decision Making - Data Visualization and Reporting - Predictive Analytics - Market Research and Competitive Intelligence - Business Intelligence Tools You can explore my Medium articles to stay updated on the latest in Business Analytics and data-driven strategies.**
+  **I'm an active contributor on Medium, where I share in-depth insights on Business Analytics. I cover a variety of topics including data-driven decision making, data visualization, predictive analytics, market research, and business intelligence tools.**
+
+**Check out my Medium articles to stay updated on the latest in Business Analytics and data-driven strategies.**
 
 - 📫 How to reach me
   **chathushikavindya09@gmail.com**
