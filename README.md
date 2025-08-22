@@ -4,15 +4,11 @@
 University of Moratuwa | CGPA: **3.64 / 4.0**  
 **Software Engineer Intern** | Passionate about **Full-Stack Development & Business Analytics**  
 
----
-
 ## What I’m Currently Working On  
 - **Intern Software Engineer at G3 Technologies (Pvt) Ltd** – Developing scalable web applications with **ASP.NET Core**, **MS SQL Server**, and **Bootstrap**.  
 - Academic Projects:  
   - **G3Nexus** – A Client-Company Collaboration Platform *(Next.js, ASP.NET Core, SQL Server)*  
   - **Vehicle Management System** – Role-based management system with fuel tracking & notifications *(React.js, ASP.NET Core, Firebase)*  
-
----
 
 ## What I’m Learning  
 - **Software Architecture** & **Cloud-based Solutions**  
@@ -20,19 +16,13 @@ University of Moratuwa | CGPA: **3.64 / 4.0**
 - **Business Analytics & Predictive Modeling**  
 - **Database Management** (MySQL, MongoDB, MS SQL)  
 
----
-
 ## Let’s Collaborate On  
 - Open-source contributions in **Web Development & Analytics**  
 - Business Analytics & Predictive Modeling projects  
 - Building impactful **data-driven and scalable applications**  
 
----
-
 ## Articles  
 I share insights on **Business Analytics**, **Data Science**, and **Full-Stack Development** on [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@chathushikavindya09)  
-
----
 
 ## Connect With Me  
 <p align="left">
@@ -50,12 +40,8 @@ I share insights on **Business Analytics**, **Data Science**, and **Full-Stack D
   </a>
 </p>
 
----
-
 ## Fun Fact  
 Whether it’s **predicting trends with analytics** or **building scalable software**, I believe technology gives us the power to **shape the future**. 
-
----
 
 ## Languages & Tools  
 
