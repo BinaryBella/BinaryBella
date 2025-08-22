@@ -1,55 +1,83 @@
-<h1 align="center">Hi 👋, I'm Chathushi Kavindya</h1>  
-<h3 align="center">A passionate Software Engineering Enthusiast from Sri Lanka</h3>  
+# 👋 Hi, I’m Chathushi Kavindya  
 
-- 🔭 I’m currently working on  
-  **👩‍🎓 BSc. (Hons) in Information Technology and Management at the University of Moratuwa (CGPA: 3.36)**  
-  **🚀 Software Engineering Intern**  
+🎓 **Final-year BSc. (Hons) in Information Technology and Management**  
+University of Moratuwa | CGPA: **3.64 / 4.0**  
+💻 **Software Engineer Intern** | Passionate about **Full-Stack Development & Business Analytics**  
 
-- 🌱 I’m currently learning  
-  **I'm delving deep into business analytics and software engineering. My areas of focus include data-driven decision-making, predictive modeling, software architecture, full-stack web development, and market analysis. Excited to explore advanced tools like ASP.NET Core, React, Next.js, and data management with MySQL and MongoDB.**  
+---
 
-- 👯 I’m looking to collaborate on  
-  **I’m open to collaborating on projects related to business analytics, software development, web development, and data management. I bring leadership and full-stack development expertise to the table. Let’s create impactful solutions together!**  
+## 🔭 What I’m Currently Working On  
+- 🚀 **Intern Software Engineer at G3 Technologies (Pvt) Ltd** – Developing scalable web applications with **ASP.NET Core**, **MS SQL Server**, and **Bootstrap**.  
+- 🎓 Academic Projects:  
+  - **G3Nexus** – A Client-Company Collaboration Platform *(Next.js, ASP.NET Core, SQL Server)*  
+  - **Vehicle Management System** – Role-based management system with fuel tracking & notifications *(React.js, ASP.NET Core, Firebase)*  
 
-- 🤝 I’m looking for help with  
-  **I'm seeking guidance and mentorship in advanced web development, cloud-based solutions, and open-source contributions. If you have expertise in these areas or related fields, I’d love to connect!**  
+---
 
-- 📝 I regularly write articles on  
-  **Business Analytics, Data Science, and Full-Stack Web Development. Check out my Medium articles for insights into the latest trends and tools in these fields.**  
+## 🌱 What I’m Learning  
+- **Software Architecture** & **Cloud-based Solutions**  
+- **Full-Stack Development** with React, Next.js, ASP.NET Core  
+- **Business Analytics & Predictive Modeling**  
+- **Database Management** (MySQL, MongoDB, MS SQL)  
 
-- 📫 How to reach me  
-  **Email: chathushikavindya09@gmail.com**  
+---
 
-- ⚡ Fun fact  
-  **Did you know that both business analytics and software engineering give you the power to shape the future? Whether it’s predicting market trends or building scalable software, it’s all about leveraging data and innovation. Let’s unlock new possibilities!**  
+## 👯 Let’s Collaborate On  
+- 🚀 Open-source contributions in **Web Development & Analytics**  
+- 📊 Business Analytics & Predictive Modeling projects  
+- ⚡ Building impactful **data-driven and scalable applications**  
 
-<h3 align="left">Connect with me:</h3>  
-<p align="left">  
-<a href="https://linkedin.com/in/chathushi-kavindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chathushi kavindya" height="30" width="40" /></a>  
-<a href="https://fb.com/chathushi kavindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chathushi kavindya" height="30" width="40" /></a>  
-<a href="https://instagram.com/_chathu.shi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chathu.shi_" height="30" width="40" /></a>  
-<a href="https://medium.com/@chathushikavindya09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="chathushi kavindya" height="30" width="40" /></a>  
-<a href="https://www.hackerrank.com/chathushi_kavindya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chathushi kavindya" height="30" width="40" /></a>  
-</p>  
+---
 
-<h3 align="left">Languages and Tools:</h3>  
-<p align="left">  
-<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt="aspnet" width="40" height="40"/> </a>  
-<a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="springboot" width="40" height="40"/> </a>  
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="nextjs" width="40" height="40"/> </a>  
-<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>  
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>  
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>  
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>  
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  
-<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>  
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>  
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>  
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>  
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a>  
-<a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>  
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>  
-</p>  
+## 📝 Articles  
+I share insights on **Business Analytics**, **Data Science**, and **Full-Stack Development** on [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@chathushikavindya09)  
+
+---
+
+## 📫 Connect With Me  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chathushikavindya09@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/chathushi-kavindya-89056a259)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BinaryBella)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://binarybella.github.io/binarybella.io/)  
+
+---
+
+## ⚡ Fun Fact  
+Whether it’s **predicting trends with analytics** or **building scalable software**, I believe technology gives us the power to **shape the future**. 🚀  
+
+---
+
+## 🛠️ Languages & Tools  
+
+### Programming  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+### Web Development  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+### Databases  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+![MSSQL](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)  
+
+### Tools & Platforms  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)  
+![Trello](https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white)  
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+
+---
+
+✨ *Always open to collaboration, innovation, and creating solutions that matter!*  
