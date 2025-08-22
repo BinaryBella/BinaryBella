@@ -35,7 +35,7 @@ I share insights on **Business Analytics**, **Data Science**, and **Full-Stack D
 ---
 
 ## Connect With Me  
-<p align="center">
+<p align="left">
   <a href="mailto:chathushikavindya09@gmail.com" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" width="40" height="40"/>
   </a>
@@ -50,6 +50,7 @@ I share insights on **Business Analytics**, **Data Science**, and **Full-Stack D
   </a>
 </p>
 
+---
 
 ## Fun Fact  
 Whether it’s **predicting trends with analytics** or **building scalable software**, I believe technology gives us the power to **shape the future**. 
