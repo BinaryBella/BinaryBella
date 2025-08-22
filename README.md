@@ -1,20 +1,20 @@
 # 👋 Hi, I’m Chathushi Kavindya  
 
-🎓 **Final-year BSc. (Hons) in Information Technology and Management**  
+**BSc. (Hons) in Information Technology and Management**  
 University of Moratuwa | CGPA: **3.64 / 4.0**  
-💻 **Software Engineer Intern** | Passionate about **Full-Stack Development & Business Analytics**  
+**Software Engineer Intern** | Passionate about **Full-Stack Development & Business Analytics**  
 
 ---
 
-## 🔭 What I’m Currently Working On  
-- 🚀 **Intern Software Engineer at G3 Technologies (Pvt) Ltd** – Developing scalable web applications with **ASP.NET Core**, **MS SQL Server**, and **Bootstrap**.  
-- 🎓 Academic Projects:  
+## What I’m Currently Working On  
+- **Intern Software Engineer at G3 Technologies (Pvt) Ltd** – Developing scalable web applications with **ASP.NET Core**, **MS SQL Server**, and **Bootstrap**.  
+- Academic Projects:  
   - **G3Nexus** – A Client-Company Collaboration Platform *(Next.js, ASP.NET Core, SQL Server)*  
   - **Vehicle Management System** – Role-based management system with fuel tracking & notifications *(React.js, ASP.NET Core, Firebase)*  
 
 ---
 
-## 🌱 What I’m Learning  
+## What I’m Learning  
 - **Software Architecture** & **Cloud-based Solutions**  
 - **Full-Stack Development** with React, Next.js, ASP.NET Core  
 - **Business Analytics & Predictive Modeling**  
@@ -22,19 +22,19 @@ University of Moratuwa | CGPA: **3.64 / 4.0**
 
 ---
 
-## 👯 Let’s Collaborate On  
-- 🚀 Open-source contributions in **Web Development & Analytics**  
-- 📊 Business Analytics & Predictive Modeling projects  
-- ⚡ Building impactful **data-driven and scalable applications**  
+## Let’s Collaborate On  
+- Open-source contributions in **Web Development & Analytics**  
+- Business Analytics & Predictive Modeling projects  
+- Building impactful **data-driven and scalable applications**  
 
 ---
 
-## 📝 Articles  
+## Articles  
 I share insights on **Business Analytics**, **Data Science**, and **Full-Stack Development** on [![Medium Badge](https://img.shields.io/badge/-Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@chathushikavindya09)  
 
 ---
 
-## 📫 Connect With Me  
+## Connect With Me  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chathushikavindya09@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/chathushi-kavindya-89056a259)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BinaryBella)  
@@ -42,12 +42,12 @@ I share insights on **Business Analytics**, **Data Science**, and **Full-Stack D
 
 ---
 
-## ⚡ Fun Fact  
+## Fun Fact  
 Whether it’s **predicting trends with analytics** or **building scalable software**, I believe technology gives us the power to **shape the future**. 🚀  
 
 ---
 
-## 🛠️ Languages & Tools  
+## Languages & Tools  
 
 ### Programming  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
@@ -80,4 +80,4 @@ Whether it’s **predicting trends with analytics** or **building scalable softw
 
 ---
 
-✨ *Always open to collaboration, innovation, and creating solutions that matter!*  
+*Always open to collaboration, innovation, and creating solutions that matter!*  
