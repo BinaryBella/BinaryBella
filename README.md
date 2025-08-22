@@ -72,6 +72,5 @@ Whether it’s **predicting trends with analytics** or **building scalable softw
 <a href="https://www.figma.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/></a>  
 <a href="https://www.linux.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>  
 </p>
----
 
 *Always open to collaboration, innovation, and creating solutions that matter!*  
